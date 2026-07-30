@@ -37,8 +37,8 @@ Plataforma educacional gratuita para conectar professores e alunos com salas vir
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasms26&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=lucasms26&layout=compact&theme=dark" alt="Linguagens mais usadas" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasms26&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-languages/?username=lucasms26&layout=compact&theme=dark" alt="Linguagens mais usadas" height="165" />
 </p>
 
 ---
