@@ -21,7 +21,7 @@
 
 ### 🛰️ **lokk** *(Projeto Principal)*
 Sistema completo de monitoramento e rastreamento.
-> *Escreva aqui uma breve frase explicando a principal funcionalidade ou objetivo do lokk (ex: Dashboard para gestão de dispositivos IoT em tempo real).*
+> **
 
 🔗 **[Acessar repositório do lokk]()**
 
