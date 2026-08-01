@@ -21,7 +21,7 @@
 
 ### 🛰️ **lokk** *(Projeto Principal)*
 Sistema completo de monitoramento e rastreamento.
-> **
+> *Lokk é uma solução completa em nuvem (B2B Multi-Tenant) para rastreamento veicular em tempo real, monitoramento de frotas, telemetria avançada, segurança ativa (Modo Estacionei e Central de Ocorrências) e streaming de vídeo de câmeras embarcadas (Dashcams).*
 
 🔗 **[Acessar repositório do lokk]()**
 
