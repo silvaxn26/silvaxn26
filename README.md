@@ -37,12 +37,11 @@ Plataforma educacional gratuita para conectar professores e alunos com salas vir
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=silvaxn26&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="165" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=silvaxn26&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="165" />
 </p>
 
 ---
 
 📬 **Como falar comigo:**  
-- ✉️ Email: `silvaxn26@outlook.com` *(opcional)*  
+- ✉️ Email: `silvaxn26@outlook.com`
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucas-martins-da-silva-653711217/) 
